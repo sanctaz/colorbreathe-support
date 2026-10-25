@@ -16,4 +16,4 @@ Public product information, support, privacy policy and terms for the iPhone/iPa
 
 China mainland and other additional storefronts are not announced as live. Version 2.3 is a preview; the current US version remains 2.2.0. Local prices and eligibility are confirmed by Apple. A website update does not release an app or change an existing subscription.
 
-Screenshots are from version 2.2 and are labeled accordingly. The site uses no advertising, analytics scripts or tracking cookies. Support: 306116317@qq.com.
+Stable pages retain their version 2.2 screenshots. The version 2.3 preview uses newly captured 2.3.0 (16) app screens, labeled as an unreleased candidate. The site uses no advertising, analytics scripts or tracking cookies. Support: 306116317@qq.com.
