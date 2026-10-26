@@ -46,8 +46,6 @@
 
 所有画笔免费使用。图层、色盘、撤销重做都在手边；兼容的 iPad 支持 Apple Pencil。想偷个懒，就打开「辅助上色」，点一下区域，按参考配色填好。
 
-**画累了，就玩一局「彩珠弹画」**：把自己的画变成一盘彩珠，借墙反弹、击中金环。在自己的作品上玩完一局（清空盘面或玩到时间结束），免费用户也能永久解锁这幅画的辅助上色。彩珠弹画在中国大陆以外的地区提供。
-
 ## 只属于你的一小片安静
 
 - **不用注册，没有广告**：打开就能开始，没有广告，也没有行为追踪。
@@ -69,7 +67,6 @@ A quiet place to color and keep your day on iPhone and iPad.
 - **168 drawings in 14 collections**, from a single flower or a sleepy cat to seasonal scenes and tiny fantasy worlds — every page comes with reference colors.
 - **Eight natural brushes**: pencil, watercolor, marker, crayon, acrylic, spray, shade and mineral, plus layers, palettes, undo and redo. Compatible iPads support Apple Pencil.
 - **A private diary**: keep a few words, a mood, a photo or a half-finished page together. Your diary can be locked and stays on your device.
-- **Marble Art**: turn your own drawing into a board of marbles; finish a round to permanently unlock assisted coloring for that drawing. Available outside mainland China.
 - **Quiet by design**: no sign-up, no ads, no tracking, and it works offline.
 
 Start free with 12 starter drawings, a daily featured page, every brush, the diary, backups and standard PNG exports. Optional Full Access adds the complete library, assisted coloring, blank canvases, imports and HD/transparent exports. Apple shows the available plans and local prices before purchase.
