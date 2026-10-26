@@ -4,7 +4,7 @@
 
 <p align="center">给今天，一点颜色。<br>Color slowly. Keep your day.</p>
 
-<p align="center"><a href="https://apps.apple.com/us/app/id6817821037">Download on the App Store</a> · <a href="https://sanctaz.github.io/colorbreathe-support/">中文介绍</a> · <a href="https://sanctaz.github.io/colorbreathe-support/en/">English</a></p>
+<p align="center"><a href="https://apps.apple.com/app/id6817821037">Download on the App Store</a> · <a href="https://sanctaz.github.io/colorbreathe-support/">中文介绍</a> · <a href="https://sanctaz.github.io/colorbreathe-support/en/">English</a></p>
 
 <p align="center"><img src="assets/product/cat.jpg" width="28%" alt="猫的一天配色参考"> <img src="assets/product/peony.jpg" width="28%" alt="花间有时配色参考"> <img src="assets/product/zodiac.jpg" width="28%" alt="生肖四时图配色参考"></p>
 
@@ -29,9 +29,8 @@ Start free with 12 drawings, a daily featured page, every brush, the diary, back
 
 ### 版本与帮助 · Versions & support
 
-The current US App Store release is **2.2.0**. Version **2.3.0 is being prepared and has not been released**. Availability follows the App Store.
+This website describes version **2.3**. Until the App Store update to 2.3 arrives, some new features may not be available yet. Availability varies by region and follows the App Store.
 
-- **2.3 preview:** [中文](https://sanctaz.github.io/colorbreathe-support/v2.3/) · [English](https://sanctaz.github.io/colorbreathe-support/v2.3/en/)
 - **Help:** [中文](https://sanctaz.github.io/colorbreathe-support/support.html) · [English](https://sanctaz.github.io/colorbreathe-support/en/support.html)
 - **Privacy:** [中文](https://sanctaz.github.io/colorbreathe-support/privacy.html) · [English](https://sanctaz.github.io/colorbreathe-support/en/privacy.html)
 - **Terms:** [中文](https://sanctaz.github.io/colorbreathe-support/terms.html) · [English](https://sanctaz.github.io/colorbreathe-support/en/terms.html)
